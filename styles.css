@@ -1,6 +1,7 @@
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
+    padding:20px;
 }
 h1, h2, p{
     text-align: center;
@@ -33,7 +34,9 @@ h2{
     width: 35%;
 }
 .item p{
-   display: inline-block;  
+   display: inline-block; 
+   margin-top: 5px;
+    margin-bottom: 5px; 
 }
 .established{
     font-style: italic;
