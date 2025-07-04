@@ -46,3 +46,26 @@ hr{
     background-color: black;
     border-color: black;
 }
+.bottom-line{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    height: 3px;
+    background-color: black;
+}
+/*FOOTER*/
+footer{
+    font-size: 12px;
+    color: grey;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:visited
+{
+    color: grey;
+}
+a:hover{
+    color: brown;
+}
